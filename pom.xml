@@ -46,7 +46,7 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-jdbc</artifactId>
-            <version>5.2.0.RELEASE</version>
+            <version>6.1.14</version>
         </dependency>
         <!--Mybatis-->
         <!-- https://mvnrepository.com/artifact/org.mybatis.spring.boot/mybatis-spring-boot-starter -->
